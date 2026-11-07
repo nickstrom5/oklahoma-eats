@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "version": "2026-11-07.1",
+ "records_through": "2026-11-07",
+ "published": "2026-11-07T11:27:05Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-oklahoma": {
+   "path": "detail-oklahoma-b0a5382f583a.json",
+   "sha256": "b0a5382f583a2aa693591cbff54d276a65ad135426b10ce0d138cc0e382d6672",
+   "bytes": 2550924,
+   "rows": 10268
+  },
+  "places": {
+   "path": "places-d25c2c29e0e2.json",
+   "sha256": "d25c2c29e0e2172a208f0eaf4dd0790d68c4e73d17ce9df5c9726349cd2e315f",
+   "bytes": 1853104,
+   "rows": 10404
+  }
+ },
+ "counts": {
+  "places": 10404,
+  "files": 2,
+  "bytes": 4404028,
+  "restaurants": 9881
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Oklahoma Eats",
+  "short_name": "OK Eats",
+  "description": "Onion burgers, BBQ & Route 66: a guide to 9,881 Oklahoma restaurants.",
+  "start_url": "/oklahoma-eats/",
+  "display": "browser",
+  "background_color": "#f6f1e6",
+  "theme_color": "#2e5e3e",
+  "icons": [
+    {
+      "src": "/oklahoma-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/oklahoma-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

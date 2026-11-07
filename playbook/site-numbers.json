@@ -1,0 +1,380 @@
+{
+ "generated": "2026-11-07",
+ "domain": "https://nickstrom5.github.io/oklahoma-eats",
+ "restaurants": 9881,
+ "places_incl_hidden": 10404,
+ "towns": 377,
+ "counties": 77,
+ "on_an_official_list": 7766,
+ "hand_checked_on_a_guide": 47,
+ "serves_alcohol_state_license": 1617,
+ "guide_burgers": 15,
+ "guide_cfs": 10,
+ "guide_bbq": 16,
+ "guide_route66": 12,
+ "oldest": 6,
+ "honors": 13,
+ "michelin": {},
+ "james_beard": 13,
+ "americas_classics": 1,
+ "permits_updated": "2026-11-01",
+ "city_pages": {
+  "Oklahoma City": {
+   "restaurants": 1846,
+   "listed": 18,
+   "burgers": 3,
+   "cfs": 3,
+   "bbq": 2,
+   "route66": 0,
+   "hon": 9,
+   "oldest": 1
+  },
+  "Tulsa": {
+   "restaurants": 1394,
+   "listed": 8,
+   "burgers": 2,
+   "cfs": 1,
+   "bbq": 1,
+   "route66": 2,
+   "hon": 3,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "El Reno": 3,
+  "Norman": 1,
+  "Edmond": 2,
+  "Shawnee": 1,
+  "Lawton": 2,
+  "Stillwater": 0,
+  "Bartlesville": 2,
+  "Claremore": 1,
+  "Vinita": 1,
+  "Stroud": 1,
+  "Sapulpa": 1,
+  "Ponca City": 1
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 796626,
+   "gzip": 165128
+  },
+  "data/detail-adair-county.json": {
+   "raw": 3112,
+   "gzip": 659
+  },
+  "data/detail-alfalfa-county.json": {
+   "raw": 1065,
+   "gzip": 302
+  },
+  "data/detail-atoka-county.json": {
+   "raw": 3892,
+   "gzip": 822
+  },
+  "data/detail-beaver-county.json": {
+   "raw": 603,
+   "gzip": 252
+  },
+  "data/detail-beckham-county.json": {
+   "raw": 8579,
+   "gzip": 1340
+  },
+  "data/detail-blaine-county.json": {
+   "raw": 1964,
+   "gzip": 446
+  },
+  "data/detail-bryan-county.json": {
+   "raw": 14601,
+   "gzip": 2182
+  },
+  "data/detail-caddo-county.json": {
+   "raw": 4374,
+   "gzip": 962
+  },
+  "data/detail-canadian-county.json": {
+   "raw": 44833,
+   "gzip": 5751
+  },
+  "data/detail-carter-county.json": {
+   "raw": 18316,
+   "gzip": 2682
+  },
+  "data/detail-cherokee-county.json": {
+   "raw": 17061,
+   "gzip": 2276
+  },
+  "data/detail-choctaw-county.json": {
+   "raw": 3066,
+   "gzip": 721
+  },
+  "data/detail-cimarron-county.json": {
+   "raw": 691,
+   "gzip": 254
+  },
+  "data/detail-cleveland-county.json": {
+   "raw": 95926,
+   "gzip": 12043
+  },
+  "data/detail-coal-county.json": {
+   "raw": 1272,
+   "gzip": 454
+  },
+  "data/detail-comanche-county.json": {
+   "raw": 37370,
+   "gzip": 4879
+  },
+  "data/detail-cotton-county.json": {
+   "raw": 1439,
+   "gzip": 463
+  },
+  "data/detail-craig-county.json": {
+   "raw": 5038,
+   "gzip": 929
+  },
+  "data/detail-creek-county.json": {
+   "raw": 15910,
+   "gzip": 2157
+  },
+  "data/detail-custer-county.json": {
+   "raw": 11138,
+   "gzip": 1656
+  },
+  "data/detail-delaware-county.json": {
+   "raw": 11389,
+   "gzip": 1616
+  },
+  "data/detail-dewey-county.json": {
+   "raw": 971,
+   "gzip": 299
+  },
+  "data/detail-ellis-county.json": {
+   "raw": 1177,
+   "gzip": 399
+  },
+  "data/detail-garfield-county.json": {
+   "raw": 19680,
+   "gzip": 2565
+  },
+  "data/detail-garvin-county.json": {
+   "raw": 8877,
+   "gzip": 1404
+  },
+  "data/detail-grady-county.json": {
+   "raw": 11503,
+   "gzip": 1724
+  },
+  "data/detail-grant-county.json": {
+   "raw": 809,
+   "gzip": 283
+  },
+  "data/detail-greer-county.json": {
+   "raw": 1259,
+   "gzip": 388
+  },
+  "data/detail-harmon-county.json": {
+   "raw": 593,
+   "gzip": 184
+  },
+  "data/detail-harper-county.json": {
+   "raw": 1459,
+   "gzip": 343
+  },
+  "data/detail-haskell-county.json": {
+   "raw": 2713,
+   "gzip": 596
+  },
+  "data/detail-hughes-county.json": {
+   "raw": 3282,
+   "gzip": 671
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 9766,
+   "gzip": 1405
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 1478,
+   "gzip": 386
+  },
+  "data/detail-johnston-county.json": {
+   "raw": 2346,
+   "gzip": 542
+  },
+  "data/detail-kay-county.json": {
+   "raw": 15435,
+   "gzip": 2148
+  },
+  "data/detail-kingfisher-county.json": {
+   "raw": 5005,
+   "gzip": 822
+  },
+  "data/detail-kiowa-county.json": {
+   "raw": 1908,
+   "gzip": 431
+  },
+  "data/detail-latimer-county.json": {
+   "raw": 1994,
+   "gzip": 494
+  },
+  "data/detail-leflore-county.json": {
+   "raw": 10492,
+   "gzip": 1452
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 6534,
+   "gzip": 1188
+  },
+  "data/detail-logan-county.json": {
+   "raw": 8868,
+   "gzip": 1559
+  },
+  "data/detail-love-county.json": {
+   "raw": 3971,
+   "gzip": 883
+  },
+  "data/detail-major-county.json": {
+   "raw": 2169,
+   "gzip": 507
+  },
+  "data/detail-marshall-county.json": {
+   "raw": 6035,
+   "gzip": 1075
+  },
+  "data/detail-mayes-county.json": {
+   "raw": 13767,
+   "gzip": 1958
+  },
+  "data/detail-mcclain-county.json": {
+   "raw": 13019,
+   "gzip": 1991
+  },
+  "data/detail-mccurtain-county.json": {
+   "raw": 13570,
+   "gzip": 1914
+  },
+  "data/detail-mcintosh-county.json": {
+   "raw": 7085,
+   "gzip": 1106
+  },
+  "data/detail-murray-county.json": {
+   "raw": 6388,
+   "gzip": 1228
+  },
+  "data/detail-muskogee-county.json": {
+   "raw": 22084,
+   "gzip": 2919
+  },
+  "data/detail-noble-county.json": {
+   "raw": 3458,
+   "gzip": 727
+  },
+  "data/detail-nowata-county.json": {
+   "raw": 1485,
+   "gzip": 492
+  },
+  "data/detail-okfuskee-county.json": {
+   "raw": 2574,
+   "gzip": 578
+  },
+  "data/detail-oklahoma-county.json": {
+   "raw": 365605,
+   "gzip": 43052
+  },
+  "data/detail-okmulgee-county.json": {
+   "raw": 9480,
+   "gzip": 1400
+  },
+  "data/detail-osage-county.json": {
+   "raw": 9443,
+   "gzip": 1471
+  },
+  "data/detail-ottawa-county.json": {
+   "raw": 6315,
+   "gzip": 1196
+  },
+  "data/detail-pawnee-county.json": {
+   "raw": 4022,
+   "gzip": 721
+  },
+  "data/detail-payne-county.json": {
+   "raw": 31381,
+   "gzip": 4047
+  },
+  "data/detail-pittsburg-county.json": {
+   "raw": 12359,
+   "gzip": 1877
+  },
+  "data/detail-pontotoc-county.json": {
+   "raw": 9980,
+   "gzip": 1458
+  },
+  "data/detail-pottawatomie-county.json": {
+   "raw": 21380,
+   "gzip": 2985
+  },
+  "data/detail-pushmataha-county.json": {
+   "raw": 3082,
+   "gzip": 536
+  },
+  "data/detail-roger-mills-county.json": {
+   "raw": 490,
+   "gzip": 256
+  },
+  "data/detail-rogers-county.json": {
+   "raw": 21402,
+   "gzip": 3093
+  },
+  "data/detail-seminole-county.json": {
+   "raw": 4901,
+   "gzip": 949
+  },
+  "data/detail-sequoyah-county.json": {
+   "raw": 10187,
+   "gzip": 1560
+  },
+  "data/detail-stephens-county.json": {
+   "raw": 9932,
+   "gzip": 1721
+  },
+  "data/detail-texas-county.json": {
+   "raw": 6186,
+   "gzip": 982
+  },
+  "data/detail-tillman-county.json": {
+   "raw": 1034,
+   "gzip": 362
+  },
+  "data/detail-tulsa.json": {
+   "raw": 295550,
+   "gzip": 34705
+  },
+  "data/detail-wagoner-county.json": {
+   "raw": 15442,
+   "gzip": 2218
+  },
+  "data/detail-washington-county.json": {
+   "raw": 17127,
+   "gzip": 2467
+  },
+  "data/detail-washita-county.json": {
+   "raw": 1544,
+   "gzip": 418
+  },
+  "data/detail-woods-county.json": {
+   "raw": 3133,
+   "gzip": 645
+  },
+  "data/detail-woodward-county.json": {
+   "raw": 7206,
+   "gzip": 1111
+  },
+  "data/ids.json": {
+   "raw": 128481,
+   "gzip": 74798
+  },
+  "data/ok_shapes.json": {
+   "raw": 49479,
+   "gzip": 10826
+  }
+ }
+}
